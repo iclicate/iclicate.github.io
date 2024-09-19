@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iclicate.github.io/sitemap.html.gz
+Sitemap: https://iclicate.github.io/app/sitemap.html.gz
+Sitemap: https://iclicate.github.io/assets/sitemap.html.gz
+Sitemap: https://iclicate.github.io/css/sitemap.html.gz
+Sitemap: https://iclicate.github.io/includes/sitemap.html.gz
+Sitemap: https://iclicate.github.io/item/sitemap.html.gz
+Sitemap: https://iclicate.github.io/src/sitemap.html.gz
